@@ -2,15 +2,15 @@
 README.md for Text Adventure
 
 ### What is Text Adventure ###
-Text Adventure is a very short text based game built in Unity 5 and C# while I was doing a MOOC on Unity Development.
-It was designed as a birthday special for a friend.
-Names and other identifying characteristics have been removed from Text Adventure.
+Text Adventure is a very short text based game built in Unity 5 and C# while I was doing a MOOC on Unity Development.  
+It was designed as a birthday special for a friend.  
+Names and other identifying characteristics have been removed from Text Adventure.  
 
 ### How to run Text Adventure ###
-You will need Unity to import the project and build it for your preferred device.
+You will need Unity to import the project and build it for your preferred device.  
 
 ### NOTE ###
-I will be including links to PC/MAC/Android builds soon.
+I will be including links to PC/MAC/Android builds soon.  
 
 ### Contribute / Edit ###
 
